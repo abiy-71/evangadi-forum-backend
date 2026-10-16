@@ -34,13 +34,13 @@ The backend API for the Evangadi Forum application, built with Node.js, Express,
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_BACKEND_REPOSITORY_URL
+   git clone https://github.com/abiy-71/evangadi-forum-backend.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd YOUR_BACKEND_DIRECTORY
+   cd evangadi-forum-backend
    ```
 
 3. Install dependencies:
